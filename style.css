@@ -1,4 +1,4 @@
-/* Generated on: Sat Oct 08 2022 20:59:46 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Oct 24 2022 12:30:16 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2258,7 +2258,7 @@
    
    .mint__button__text {
      border-radius: 20px;
-     font-family: 'Gulfsdisplay extraexpanded', sans-serif;
+     font-family: 'Level up', sans-serif;
      font-weight: 700;
    }
    
@@ -2593,6 +2593,20 @@
    
    .bold-text-4 {
      font-family: 'Level up', sans-serif;
+   }
+   
+   @media screen and (min-width: 1280px) {
+     .paragraph {
+       font-family: 'Space Grotesk', sans-serif;
+     }
+   
+     .bold-text {
+       font-family: 'Space Grotesk', sans-serif;
+     }
+   
+     .mint__button__text {
+       font-family: 'Level up', sans-serif;
+     }
    }
    
    @media screen and (min-width: 1440px) {
